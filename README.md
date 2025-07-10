@@ -1,3 +1,13 @@
+<section style="text-align: center; padding: 60px; background-color: #F4F9F9;">
+  <img src="INSERT_LOGO_URL_HERE" alt="TMORE Logo" width="100">
+  <h1 style="font-size: 48px; margin: 20px 0;">TravelMore ($TMORE)</h1>
+  <p style="font-size: 22px;">✈️ The Adventure Token of Solana</p>
+  <a href="#buy" style="margin-top: 30px; display: inline-block; background-color: #1abc9c; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none;">Buy $TMORE</a>
+</section>
+<section style="padding: 60px; background-color: #ffffff;">
+  <h2>What is TravelMore?</h2>
+  <p>TravelMore ($TMORE) is a community-powered meme coin built for explorers, digital nomads, and those who crave freedom. Powered by Solana, TMORE is more than a token — it’s a passport to adventure, decentralized travel culture, and epic vibes.</p>
+</section>
 <section style="padding: 60px; background-color: #f7f7f7;">
   <h2>Tokenomics</h2>
   <ul>
